@@ -13,3 +13,5 @@ function Flower({ name="חמניה", petalColor="צהוב", centerColor="חום"
     );
 }
 
+export default Flower;
+
