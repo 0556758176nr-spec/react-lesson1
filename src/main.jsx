@@ -9,5 +9,8 @@ createRoot(document.getElementById('root')).render(
   <div>
     <Header/>
     <Flower/>
+    <Flower name="גבעול" petalColor="ירוק"/>
+    <Flower name="ורדים" centerColor="צהוב"/>
+    <Flower name="נרקיס" />
   </div>
 )
